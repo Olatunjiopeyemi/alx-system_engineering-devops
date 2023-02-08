@@ -4,4 +4,4 @@ changes the working directory to the user’s home directory
 Displaying current directory contents in a long format
 Display current directory contents, including hidden files starting with .
 Display current directory contents
-moving contents of directory to another
+moving files between directories
