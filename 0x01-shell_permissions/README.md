@@ -13,4 +13,4 @@ a script that adds execute permission to all subdirectories of the current direc
 a script that creates a directory
 a script that changes the group owner
 a script that changes the owner and group owner
-a script that changes the owner and the group owner
+Write a script that changes the owner of the file
