@@ -13,3 +13,4 @@ creating a file type
 creating symbolic link
 creating script that copies html files
 moving all files with uppercase letter
+delete all files in the working directory ending with character /root
