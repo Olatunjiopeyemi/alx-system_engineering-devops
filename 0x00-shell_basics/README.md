@@ -6,3 +6,4 @@ Display current directory contents, including hidden files starting with .
 Display current directory contents
 moving files between directories
 first deletion
+byebye my first directory
