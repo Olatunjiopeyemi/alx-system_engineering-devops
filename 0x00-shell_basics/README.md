@@ -12,3 +12,4 @@ listing
 creating a file type
 creating symbolic link
 creating script that copies html files
+moving all files with uppercase letter
