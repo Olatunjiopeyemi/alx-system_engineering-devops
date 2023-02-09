@@ -12,3 +12,4 @@ script that sets the mode of two files
 a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 a script that creates a directory
 a script that changes the group owner
+a script that changes the owner and group owner
