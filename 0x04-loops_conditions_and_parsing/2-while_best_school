@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#This script displays bestschool 10x using while loop.
+
+i=0
+do
+  echo "Best School"
+
+while [ $i -lt 9 ]
+  i=$(( i + 1 ))
+
+done
