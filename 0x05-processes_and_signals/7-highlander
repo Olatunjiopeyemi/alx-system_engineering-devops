@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# The script displays a string infinitely with a 2-sec delay inbtw and catches SIGTERM.
+invincible()
+{
+    echo "I am invincible!!!"
+}
+
+trap invincible SIGTERM
+
+while true; do
+    echo "To infinity and beyond"
+    sleep 2
+done
+
