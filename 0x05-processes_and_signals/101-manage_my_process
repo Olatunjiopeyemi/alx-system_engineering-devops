@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Te script is a bash init script and manages a daemon.
+# This is a bash init script that manages a daemon.
 
 argv1=$1
 tmpfile="/var/run/my_process.pid"
