@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# The script displays "Best School" 10x except the 4th and 8th
+
+i=0
+while [ $i -lt 10 ]
+do
+    i=$(( i + 1 ))
+
+    if [ $i == 4 ]
+    then
+        echo "bad luck"
+    elif [ $i == 8 ]
+    then
+        echo "good luck"
+    else
+        echo "Best School"
+    fi
+done
